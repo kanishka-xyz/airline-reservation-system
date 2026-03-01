@@ -84,28 +84,12 @@ Booking records
 
 User data management
 
-🌟 Additional Functionalities
-
-Clean responsive UI
-
-Modular backend architecture
-
-Organized database models
-
-RESTful API structure
-
-Error handling & validation
-
-CORS enabled for cross-platform deployment
-
 🛠️ Tech Stack
 💻 Frontend
 
 React.js (Functional Components + Hooks)
 
-JavaScript (ES6+)
-
-Inline Styling
+JavaScript 
 
 jsPDF (for ticket generation)
 
@@ -119,11 +103,9 @@ JWT Authentication
 
 bcrypt for password encryption
 
-REST API architecture
-
 🗄️ Database
 
 MongoDB Atlas
 
-Mongoose ODM
+
 
